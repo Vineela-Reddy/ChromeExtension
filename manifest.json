@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Leads Tarcker",
+    "action": {
+        "default_popup": "ChromeExtension.html",
+        "default_icon": "Screenshot 2024-08-27 152246.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
